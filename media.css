@@ -1,0 +1,225 @@
+@media(max-width:1384px){
+.Reviews_item{
+    gap: 15px;
+    overflow-x: auto;
+    overflow: hidden;
+} 
+
+ }
+ @media(max-width:1138px){
+ .subscribe{
+    bottom: -97px;
+ }
+}
+@media(max-width:1138px){
+.intro_info{
+    margin-top: 4px;
+}
+.intro_info h1{
+font-size: 69px;
+}
+.intro_info h2{
+font-size: 36px;
+}
+.reserv{
+    bottom: -140px;
+}
+}
+@media(max-width:1043px){
+    .subscribe{
+        bottom: -77px;
+    }
+@media(max-width:1007px){
+.footer_about{
+    flex-wrap: wrap;
+    margin-top: 0;
+    justify-content: center;
+}
+.footer_info{
+    margin-top: 0;
+}  
+}
+@media(max-width:897px){
+.footer{
+    height: 390px;}
+}
+}
+@media(max-width:866px){
+.reserv-info{
+    gap: 15px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.subscribe_info h2{
+    font-size: 32px;
+    height: 40px;
+}
+.reservation_icon{
+    bottom: 26px;
+}
+.reserv{
+bottom: -120px;
+}
+.reserv_buttons{
+    margin: 15px;
+}
+.intro_info h1{
+font-size: 58px;
+}
+.intro_info h2{
+font-size: 29px;
+}
+}
+@media(max-width:847px){
+.subscribe{
+    bottom: -38px;
+}
+}
+@media(max-width:803px){
+.trip{
+    margin-top: 21%;
+}
+}
+@media(max-width:683px){
+    .subscribe{
+        bottom :-35px;
+    }
+    .reviews-subrcribe{
+        min-height: 816px;
+    }
+}
+
+@media(max-width:646px){
+    .trip{
+        margin-top: 28%;
+    }
+    .intro_info h1{
+        font-size: 46px;
+    }
+    .intro_info h2{
+        font-size: 25px;
+    }
+    .sign-up{
+        margin-left: 10px;
+    }
+    .link{
+        margin-right: 10px;
+    }
+ 
+}
+@media(max-width:629px){
+.trip_title_a{
+    flex-wrap: wrap;
+}
+.item_box,.item_box::before{
+    height: 461px;
+}
+.Reviews{
+    margin-top: 15px;
+}
+.Reviews_info{
+    margin-bottom: 15px;
+}
+.item_box img{
+    margin-top: 10px;
+}
+.item_box p{
+    height: 15px;
+}
+.trip a {
+    margin-top: 10px;
+}
+.reservation_icon{
+margin-bottom: 22px;
+}
+.form-control input{
+    padding: 7px 8px;
+}
+}
+@media(max-width:597px){
+.subscribe_info h2{
+    font-size: 25px;
+}
+.subscribe{
+    position: inherit;
+    margin-top: 15px;
+}
+.img{
+    display: none;  
+}
+.footer{
+    height: 480px;
+}
+}
+@media(max-width:524px){
+    .reserv{
+        bottom: -100px;
+    }
+    .intro_info{
+        height: 150px;
+    }
+}
+@media(max-width:517px){
+.reservation_icon{
+    margin-bottom: 22px;
+}
+.item_box,.item_box::before{
+    height: 425px;
+}
+.item_box img{
+    max-width: 377px;
+}
+.reserv{
+    padding: 15px 15px;
+}
+.nav-info{
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+}
+@media(max-width:436px){
+.footer_about{
+justify-content: center;
+align-items: center;
+gap: 20px;
+}}
+@media(max-width:407px){
+    .trip_title{
+        margin-top: 100px;
+    }
+    .trip h2{
+        font-size: 25px;
+    }
+    .nav-info{
+        padding: 10px 15px;
+    }
+    .intro{
+        padding: 0 4px;
+    }
+    .intro_info h1{
+        font-size: 42px;
+    }
+    .intro_info p{
+        font-size: 18px;
+    }
+}
+@media(max-width:372px){
+
+.subsc_input input{
+    width: auto;
+}
+.footer_logo{
+    margin-top: 0;
+}
+.trip_title{
+    margin-top: 150px;
+}
+.intro_info h1{
+    font-size: 38px;
+}
+
+}
