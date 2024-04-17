@@ -11,7 +11,7 @@
   --other-width: 25%;
 }
 .container {
-  max-width: 1320px;
+  max-width: 1180px;
   width: 100%;
   padding: 0 15px;
   margin: 0 auto;
@@ -20,7 +20,8 @@ body {
   font-family: "Arimo", sans-serif;
   font-family: "Montserrat", sans-serif;
   background-color: #fafbfc;
-  overflow-x: hidden;
+  overflow-block: auto;
+  position: relative;
 }
 .intro {
   background-image: url(./Images/bg.png);
@@ -529,6 +530,7 @@ font-family: 'Montserrat';
   position: relative;
   min-height: 900px;
   height: 100%;
+ align-items: center;
 }
 /* .subscr-footer{
   height: 574px;
@@ -605,6 +607,8 @@ font-family: 'Montserrat';
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 10px;
+  width: 100%;
 }
 .footer_about {
   display: flex;
